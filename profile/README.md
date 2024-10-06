@@ -1,4 +1,4 @@
-# Development of an IoT-Enabled Smart Energy Meter for Energy Consumption Monitoring
+# Power Analytics and Consumption Evaluator (PACE): An IoT-based Power Meter and Controller
 
 ## Done by:
 - Amr Osman
