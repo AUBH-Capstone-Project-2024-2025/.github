@@ -1,4 +1,4 @@
-# SPARK with IoT Connection (Smart Power And Resource Kit)
+# Development of an IoT-Enabled Smart Energy Meter for Energy Consumption Monitoring
 
 ## Done by:
 - Amr Osman
