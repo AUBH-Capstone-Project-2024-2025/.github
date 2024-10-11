@@ -22,4 +22,5 @@ This organization represents our 2024/2025 capstone project.
 
 ### Mobile Application Frontend:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
