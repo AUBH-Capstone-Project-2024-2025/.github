@@ -2,8 +2,9 @@
 
 ## Done by:
 - Amna Bubshait
-- Reem Burshaid
 - Rawan Albinzayed
+- Reem Burshaid
+- Zahra Alshehabi
 
 ## Overview:
 This organization represents our 2024/2025 capstone project.
