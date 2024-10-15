@@ -1,4 +1,4 @@
-# (CANE) Computer Aided Navigation Equipment
+# Smart CANE: Computer-Aided Navigation Empowering the Visually Impaired
 
 ## Done by:
 - Amna Bubshait
