@@ -1,4 +1,4 @@
-# Title TBA
+# (CANE) Computer Aided Navigation Equipment
 
 ## Done by:
 - Amna Bubshait
@@ -7,7 +7,8 @@
 - Zahra Alshehabi
 
 ## Overview:
-This organization represents our 2024/2025 capstone project.
+Individuals with visual challenges face significant mobility challenges due to a lack of efficient obstacle detection technologies. Current solutions frequently lack the required reactivity, resulting in accidents and decreased freedom. Furthermore, many existing equipment lack adjustable feedback choices, limiting users' ability to change their experience based on their preferences. 
+As computer science and computer engineering professionals, our goal is to use our knowledge of both hardware and software to develop a smart cane that addresses these difficulties head on. The project will use advanced sensors to detect obstacles and provide fast alerts by vibrations or audible feedback. Furthermore, the program will deliver real-time updates to caregivers, which will improve the support system for visually impaired people. By combining advanced technology with a focus on user needs, our goal is to offer a solution that promotes mobility, safety, and overall quality of life for the visually impaired community. 
 
 ## Tools:
 ### Hardware:
